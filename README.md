@@ -19,7 +19,7 @@
 ### Начало работы
 Клонируйте репозиторий и перейдите в него в командной строке:
 ```
-git clone https://github.com/SultanovRustam/foodgram-project-react
+
 ```
 ```
 cd foodgram-project-react
