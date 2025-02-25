@@ -12,21 +12,19 @@
 - nginx
 - gunicorn
 - Docker
-- Яндекс.Облако
 
 ## Запуск проекта
 
 ### Начало работы
 Клонируйте репозиторий и перейдите в него в командной строке:
 ```
-
+git clone https://github.com/epsilon-eridana/foodgram-remastered
 ```
 ```
 cd foodgram-project-react
 ```
 ### Запуск проекта локально
-- Установите Docker, используя инструкции с официального сайта:
-https://www.docker.com/products/docker-desktop/
+- Установите Docker, используя инструкции с официального сайта
 - Создайте файл .env в директории foodgram-project-react/backend/foodgram/foodgram со следующим содержимым:
     ```
     DB_ENGINE=<django.db.backends.postgresql>
@@ -105,4 +103,4 @@ TELEGRAM_TOKEN=<токен вашего бота>
 
 ### Автор
 
-Султанов Рустам
+- [epsilon-eridana](https://github.com/epsilon-eridana)
